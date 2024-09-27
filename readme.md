@@ -22,13 +22,13 @@
     - [X] Desenvolvendo com Live Server
     - [X] Iniciando com CSS
 
-  - [ ] **Menu do site**
+  - [X] **Menu do site**
     - [X] Criando estrutura do menu com HTML
     - [X] Espaçamento com CSS
     - [X] Resetando estilos do navegador
     - [X] Conhecendo a cascata do CSS
     - [X] Estilizando fontes e links do menu
-    - [ ] [**Desafio 2-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
+    - [X] [**Desafio 2-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
 
   - [ ] **Página sobre**
     - [ ] Adicionando imagens no HTML
