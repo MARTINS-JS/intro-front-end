@@ -26,7 +26,7 @@
     - [X] Criando estrutura do menu com HTML
     - [X] Espaçamento com CSS
     - [X] Resetando estilos do navegador
-    - [ ] Conhecendo a cascata do CSS
+    - [X] Conhecendo a cascata do CSS
     - [ ] Estilizando fontes e links do menu
     - [ ] [**Desafio 2-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
 
