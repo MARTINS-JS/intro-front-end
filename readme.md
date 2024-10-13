@@ -38,7 +38,7 @@
     - [X] Estilizando textos e fontes com CSS
     - [X] Variáveis no CSS
     - [X] Links para redes sociais
-    - [ ] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
+    - [X] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
   - [ ] **Página de portfólio**
     - [ ] Iniciando página de portfólio
