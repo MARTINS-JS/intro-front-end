@@ -32,7 +32,7 @@
 
   - [ ] **Página sobre**
     - [X] Adicionando imagens no HTML
-    - [ ] Separando e importando estilos
+    - [X] Separando e importando estilos
     - [ ] Trabalhando com texto no HTML
     - [ ] Estilizando imagem do avatar
     - [ ] Estilizando textos e fontes com CSS
