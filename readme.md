@@ -33,7 +33,7 @@
   - [ ] **Página sobre**
     - [X] Adicionando imagens no HTML
     - [X] Separando e importando estilos
-    - [ ] Trabalhando com texto no HTML
+    - [X] Trabalhando com texto no HTML
     - [ ] Estilizando imagem do avatar
     - [ ] Estilizando textos e fontes com CSS
     - [ ] Variáveis no CSS
