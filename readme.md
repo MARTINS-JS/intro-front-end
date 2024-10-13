@@ -41,7 +41,7 @@
     - [X] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
   - [ ] **Página de portfólio**
-    - [ ] Iniciando página de portfólio
+    - [X] Iniciando página de portfólio
     - [ ] Estilizando os cards
     - [ ] Posicionando elementos HTML com CSS grid
 
