@@ -30,7 +30,7 @@
     - [X] Estilizando fontes e links do menu
     - [X] [**Desafio 2-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
 
-  - [ ] **Página sobre**
+  - [X] **Página sobre**
     - [X] Adicionando imagens no HTML
     - [X] Separando e importando estilos
     - [X] Trabalhando com texto no HTML
