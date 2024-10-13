@@ -37,7 +37,7 @@
     - [X] Estilizando imagem do avatar
     - [X] Estilizando textos e fontes com CSS
     - [X] Variáveis no CSS
-    - [ ] Links para redes socias
+    - [X] Links para redes sociais
     - [ ] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
   - [ ] **Página de portfólio**
