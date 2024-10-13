@@ -34,7 +34,7 @@
     - [X] Adicionando imagens no HTML
     - [X] Separando e importando estilos
     - [X] Trabalhando com texto no HTML
-    - [ ] Estilizando imagem do avatar
+    - [X] Estilizando imagem do avatar
     - [ ] Estilizando textos e fontes com CSS
     - [ ] Variáveis no CSS
     - [ ] Links para redes socias
