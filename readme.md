@@ -36,7 +36,7 @@
     - [X] Trabalhando com texto no HTML
     - [X] Estilizando imagem do avatar
     - [X] Estilizando textos e fontes com CSS
-    - [ ] Variáveis no CSS
+    - [X] Variáveis no CSS
     - [ ] Links para redes socias
     - [ ] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
