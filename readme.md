@@ -40,7 +40,7 @@
     - [X] Links para redes sociais
     - [X] [**Desafio 2-2**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
-  - [ ] **Página de portfólio**
+  - [X] **Página de portfólio**
     - [X] Iniciando página de portfólio
     - [X] Estilizando os cards
     - [X] Posicionando elementos HTML com CSS grid
