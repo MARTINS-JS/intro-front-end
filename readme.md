@@ -42,7 +42,7 @@
 
   - [ ] **Página de portfólio**
     - [X] Iniciando página de portfólio
-    - [ ] Estilizando os cards
+    - [X] Estilizando os cards
     - [ ] Posicionando elementos HTML com CSS grid
 
   - [ ] **Modal**
