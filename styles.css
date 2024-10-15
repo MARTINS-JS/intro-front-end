@@ -117,3 +117,11 @@ header {
   text-align: center;
   padding: 8px 20px;
 }
+
+.modal-overlay {
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
