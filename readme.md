@@ -46,7 +46,7 @@
     - [X] Posicionando elementos HTML com CSS grid
 
   - [ ] **Modal**
-    - [ ] Sobreposição de conteúdo HTML com CSS
+    - [X] Sobreposição de conteúdo HTML com CSS
     - [ ] Adicionando janela pop-up no estilo modal
     - [ ] Escondendo elementos com CSS
 
