@@ -80,8 +80,11 @@ header {
 }
 
 .cards {
-  max-width: 800px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
   margin: 0 auto;
+  max-width: 800px;
 }
 
 .card {
@@ -95,4 +98,22 @@ header {
 .card_content,
 .card_info {
   padding: 24px;
+}
+
+.card_content h1 {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.card_info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.info_price {
+  background: var(--color-purple);
+  border-radius: 20px;
+  filter: brightness(90%);
+  text-align: center;
+  padding: 8px 20px;
 }
