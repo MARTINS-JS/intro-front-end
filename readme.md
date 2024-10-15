@@ -43,7 +43,7 @@
   - [ ] **Página de portfólio**
     - [X] Iniciando página de portfólio
     - [X] Estilizando os cards
-    - [ ] Posicionando elementos HTML com CSS grid
+    - [X] Posicionando elementos HTML com CSS grid
 
   - [ ] **Modal**
     - [ ] Sobreposição de conteúdo HTML com CSS
