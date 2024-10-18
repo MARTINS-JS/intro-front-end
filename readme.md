@@ -47,7 +47,7 @@
 
   - [ ] **Modal**
     - [X] Sobreposição de conteúdo HTML com CSS
-    - [ ] Adicionando janela pop-up no estilo modal
+    - [X] Adicionando janela pop-up no estilo modal
     - [ ] Escondendo elementos com CSS
 
   - [ ] **Controlando modal com JavaScript**
