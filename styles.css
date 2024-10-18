@@ -121,16 +121,23 @@ header {
 .modal-overlay {
   background: rgba(0, 0, 0, 0.7);
   position: fixed;
-  top: 0;
   height: 100%;
+  top: 0;
+  visibility: hidden;
   width: 100%;
+  opacity: 0;
+}
+
+.modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
 }
 
 .modal {
   background: #ffffff;
+  height: 90%;
   margin: 5vh auto;
   position: relative;
-  height: 90%;
   width: 90%;
 }
 
