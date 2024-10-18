@@ -45,10 +45,10 @@
     - [X] Estilizando os cards
     - [X] Posicionando elementos HTML com CSS grid
 
-  - [ ] **Modal**
+  - [X] **Modal**
     - [X] Sobreposição de conteúdo HTML com CSS
     - [X] Adicionando janela pop-up no estilo modal
-    - [ ] Escondendo elementos com CSS
+    - [X] Escondendo elementos com CSS
 
   - [ ] **Controlando modal com JavaScript**
     - [ ] Selecionando elementos da DOM
