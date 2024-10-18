@@ -125,3 +125,22 @@ header {
   height: 100%;
   width: 100%;
 }
+
+.modal {
+  background: #ffffff;
+  margin: 5vh auto;
+  position: relative;
+  height: 90%;
+  width: 90%;
+}
+
+.modal .close_modal {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+
+.close_modal .material-icons {
+  color: black;
+  cursor: pointer;
+}
