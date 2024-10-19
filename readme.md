@@ -50,9 +50,9 @@
     - [X] Adicionando janela pop-up no estilo modal
     - [X] Escondendo elementos com CSS
 
-  - [ ] **Controlando modal com JavaScript**
+  - [X] **Controlando modal com JavaScript**
     - [X] Selecionando elementos da DOM
-    - [ ] Manipulando a DOM
+    - [X] Manipulando a DOM
 
   - [ ] **Vídeo dinâmico**
     - [ ] Adicionando conteúdo externo com iframe
