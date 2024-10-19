@@ -51,7 +51,7 @@
     - [X] Escondendo elementos com CSS
 
   - [ ] **Controlando modal com JavaScript**
-    - [ ] Selecionando elementos da DOM
+    - [X] Selecionando elementos da DOM
     - [ ] Manipulando a DOM
 
   - [ ] **Vídeo dinâmico**
