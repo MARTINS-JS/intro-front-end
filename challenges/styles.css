@@ -51,19 +51,20 @@ header {
   border: 3px solid var(--color-gray-10);
   border-radius: 50%;
   display: flex;
+  height: 150px;
   justify-content: center;
-  margin: 32px auto 16px;
-  height: 100px;
-  width: 100px;
+  margin: 32px auto 0;
+  width: 150px;
 }
 
 .img-container img {
-  width: 50px;
+  width: 75px;
 }
 
 .wrapper h1 {
   color: var(--color-gray-30);
   font-size: 32px;
+  margin: 32px 0;
 }
 
 .wrapper h2 {
@@ -73,7 +74,7 @@ header {
 
 .wrapper p {
   font-size: 16px;
-  margin: 12px auto;
+  margin: 0 auto 12px;
   max-width: 450px;
 }
 
@@ -89,4 +90,123 @@ header {
   font-size: 16px;
   margin-top: 4px;
   opacity: 0.8;
+}
+
+.cards {
+  display: grid;
+  gap: 40px;
+  margin: 32px auto 0;
+  max-width: 750px;
+}
+
+.card {
+  border: 2px solid var(--color-gray-10);
+  border-radius: 8px;
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 1fr 1fr 0.5fr;
+  text-align: center;
+}
+
+.card_image {
+  height: 100%;
+  width: 100%;
+}
+
+.card_image img {
+  height: 100%;
+  width: 100%;
+}
+
+.card_info {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.card_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.card_content .button {
+  background: var(--color-gray-10);
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 0 auto;
+  padding: 8px 20px;
+  width: 50%;
+}
+
+.card_content .button:hover {
+  background: var(--color-gray-50);
+  transition: background 700ms;
+}
+
+.modal-overlay {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  opacity: 0;
+  visibility: hidden;
+  width: 100%;
+}
+
+.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal {
+  background: black;
+  height: 80%;
+  width: 80%;
+}
+
+.maximize {
+  height: 100%;
+  width: 100%;
+}
+
+.modal_control {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+
+.material-icons {
+  align-items: center;
+  color: var(--color-gray-10);
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  padding: 8px;
+  width: 24px;
+}
+
+.material-icons:hover {
+  background: var(--color-gray-30);
+  color: #ffffff;
+}
+
+.material-icons:last-child:hover {
+  background: red;
+  color: #ffffff;
+}
+
+.modal_content {
+  height: 100%;
+  width: 100%;
+}
+
+.modal_content iframe {
+  height: 100%;
+  width: 100%;
 }
