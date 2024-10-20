@@ -55,7 +55,7 @@
     - [X] Manipulando a DOM
 
   - [ ] **Vídeo dinâmico**
-    - [ ] Adicionando conteúdo externo com iframe
+    - [X] Adicionando conteúdo externo com iframe
     - [ ] Substituindo conteúdo com JavaScript
     - [ ] [**Desafio 2-3**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
 
