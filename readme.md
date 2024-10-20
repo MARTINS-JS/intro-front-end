@@ -10,7 +10,7 @@
 
 <div style="">
   <p>
-    Estudando!
+    Nessa fase, aprendi na prática alguns conceitos fundamentais sobre HTML, CSS e JavaScript e entendi um pouco mais sobre o universo do front-end.
   </p>
 </div>
 
