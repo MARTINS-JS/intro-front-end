@@ -54,10 +54,10 @@
     - [X] Selecionando elementos da DOM
     - [X] Manipulando a DOM
 
-  - [ ] **Vídeo dinâmico**
+  - [X] **Vídeo dinâmico**
     - [X] Adicionando conteúdo externo com iframe
     - [X] Substituindo conteúdo com JavaScript
-    - [ ] [**Desafio 2-3**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
+    - [X] [**Desafio 2-3**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
 
 <div style="">
   <p>
